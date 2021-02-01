@@ -4,4 +4,52 @@
     margin-top: 150px;
     font-size: 50px;
     font-family: fantasy;
+    cursor: pointer;
 }
+
+.nuevosaludo {
+    color: purple;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 100px;
+    font-family: fantasy;
+    transition: 2s;
+}
+
+.cajita {
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+    margin: auto;
+    cursor: pointer;
+}
+
+.nuevacajita {
+    width: 150px;
+    height: 150px;
+    background-color: cadetblue;
+    margin: auto;
+    transition: 2s;
+}
+
+.dboton {
+    width: 100px;
+    height: 40px;
+    background-color: violet;
+    border-radius: 3px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 20px;
+    cursor: pointer;
+    font-family: fantasy;
+    color: darkviolet;
+    transition: 0.5s;
+}
+
+.dboton:hover {
+    background-color: aquamarine;
+    color: darkcyan;
+}
+
+
